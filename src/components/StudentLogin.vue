@@ -2,7 +2,7 @@
 <template>
   <div class="login-container">
     <div class="edit-form">
-      <h2>Student Login</h2>
+      <h2>Student Login Portal</h2>
 
       <form @submit.prevent="login">
         <label for="studentId">Student ID</label>
